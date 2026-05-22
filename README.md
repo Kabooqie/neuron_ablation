@@ -38,3 +38,6 @@ If you use this research or code, please cite this work as:
 1. Clone the repository.
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the pipeline in order: `harvester.py` -> `probe.py` -> `surgeon.py` -> `benchmark.py`.
+
+## Paper
+- 📄 Paper: Available on ResearchGate (DOI: 10.13140/RG.2.2.19488.96001)
