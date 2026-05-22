@@ -1,0 +1,12 @@
+# Exclude environment and logs
+.venv/
+__pycache__/
+*.pyc
+
+# Exclude large data and temporary files
+*.npy
+*.pt
+.ipynb_checkpoints/
+
+# Exclude the vision folder (as requested)
+vision/
